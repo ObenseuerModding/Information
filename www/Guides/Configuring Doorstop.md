@@ -1,9 +1,15 @@
+---
+title: Configuring Doorstop
+parent: Guides
+nav_order: 1
+---
+
 # Configuring Doorstop
 
-> [!Note]
+> {.note}
 > This guide assumes you've already installed BepInEx following the instructions from their repository. You specifically want the [latest version 5 LTS](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)
 
-> [!IMPORTANT]
+> {.important}
 > The developers of the game have indicated they will stop stripping the game assemblies so this guide will become obsolete after the next release and following it will just add extra space to your game install
 
 ## Acquire Unstripped Assemblies

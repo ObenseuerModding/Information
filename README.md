@@ -1,5 +1,3 @@
-# Obenseuer Modding Information Site
+# This Repo is a Website
 
-## Guides
-
-- [Configuring Doorstop](configuring-doorstop.md)
+Click [Here](https://obenseuermodding.github.io/Information/) to view it in your browser
