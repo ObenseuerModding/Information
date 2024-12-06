@@ -1,0 +1,26 @@
+{
+    "cSpell.words": [
+        "Bepin",
+        "callouts",
+        "chainloader",
+        "colour",
+        "Klux",
+        "Kofi",
+        "LCMXXXX",
+        "modders",
+        "modman",
+        "modpack",
+        "modpacks",
+        "moresuits",
+        "PEGI",
+        "ragdoll",
+        "TCLI",
+        "teleporting",
+        "Thunderstore"
+    ],
+    "markdownlint.config": {
+        "MD025": false,
+        "MD028": false,
+        "MD033": false,
+    }
+}
