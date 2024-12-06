@@ -1,13 +1,17 @@
 # Configuring Doorstop
 
-Note: This guide assumes you've already installed BepInEx following the instructions from their repository. You specifically want the [latest version 5 LTS](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)
+> [!Note]
+> This guide assumes you've already installed BepInEx following the instructions from their repository. You specifically want the [latest version 5 LTS](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)
+
+> [!IMPORTANT]
+> The developers of the game have indicated they will stop stripping the game assemblies so this guide will become obsolete after the next release and following it will just add extra space to your game install
 
 ## Acquire Unstripped Assemblies
 
 Since Obenseuer uses `Unity 2019.4.40f` we'll need the core files and libraries for that specific version.
 
-[Core Files](https://unity.bepinex.dev/corlibs/2019.4.40.zip)
-[Libraries](https://unity.bepinex.dev/libraries/2019.4.40.zip)
+- [Core Files](https://unity.bepinex.dev/corlibs/2019.4.40.zip)
+- [Libraries](https://unity.bepinex.dev/libraries/2019.4.40.zip)
 
 ## Extract The Unstripped Assemblies
 
