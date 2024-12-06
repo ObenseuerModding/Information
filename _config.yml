@@ -9,16 +9,16 @@ defaults:
 # General Stuff          #
 #------------------------#
 
-title: Lethal Company Modding
-description: Thunderstore Community
+title: Obenseuer Modding Information
+description: Modding Guides
 theme: just-the-docs
 color_scheme: lethal-dark
-url: https://lethalcompanymodding.github.io/Thunderstore/
+url: https://obenseuermodding.github.io/Information
 favicon_ico: "/favicon.png"
 
 aux_links:
-  Github: https://github.com/LethalCompanyModding/Thunderstore
-  Discord: https://discord.gg/lcmod
+  Github: https://github.com/ObenseuerModding/Information
+  Discord: https://discord.gg/Ae7UBJj
 
 #------------------------#
 # Callouts and Colors    #
@@ -82,6 +82,6 @@ search:
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit Page"
-gh_edit_repository: "https://github.com/LethalCompanyModding/Thunderstore"
+gh_edit_repository: "https://github.com/ObenseuerModding/Information"
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
