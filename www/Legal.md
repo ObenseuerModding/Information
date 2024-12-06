@@ -24,4 +24,4 @@ All content produced by JustTheDocs as part of the JustTheDocs Template files ar
 All other content produced for this repository is licensed under the Creative Commons 1.0 Universal License ("CC-0")
 
 {: .license}
-> Available Here: [LCM Thunderstore Repo](https://github.com/LethalCompanyModding/Thunderstore/blob/main/LICENSE)
+> Available Here: [Obenseuer Modding Github](https://github.com/ObenseuerModding/Information/blob/main/LICENSE)
