@@ -1,5 +1,6 @@
 ---
 title: Configuring Doorstop
+nav_order: 1
 parent: Guides
 grand_parent: Home
 ---
