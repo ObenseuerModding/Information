@@ -12,6 +12,10 @@ grand_parent: Home
 {: .important}
 > The developers of the game have indicated they will stop stripping the game assemblies so this guide will become obsolete after the next release and following it will just add extra space to your game install
 
+- [Acquire Unstripped Assemblies](#acquire-unstripped-assemblies)
+- [Extract The Unstripped Assemblies](#extract-the-unstripped-assemblies)
+- [Edit Doorstop Config](#edit-doorstop-config)
+
 ## Acquire Unstripped Assemblies
 
 Since Obenseuer uses `Unity 2019.4.40f` we'll need the core files and libraries for that specific version.
