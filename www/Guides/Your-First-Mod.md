@@ -1,5 +1,6 @@
 ---
 title: Your First Mod
+nav_order: 2
 parent: Guides
 grand_parent: Home
 ---

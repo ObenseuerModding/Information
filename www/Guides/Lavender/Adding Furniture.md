@@ -7,6 +7,9 @@ has_children: true
 
 # Adding Furniture
 
+![Static Badge](https://img.shields.io/badge/Skill_Level-Beginner-blue?style=for-the-badge)  
+![Static Badge](https://img.shields.io/badge/Estimated_Time-15_Minutes-blue?style=for-the-badge)
+
 {: .note}
 > This guide assumes you've already downloaded Lavender and/or referenced it in your project Dependencies!
 
