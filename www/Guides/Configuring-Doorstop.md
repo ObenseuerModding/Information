@@ -6,11 +6,17 @@ grand_parent: Home
 
 # Configuring Doorstop
 
+![Static Badge](https://img.shields.io/badge/Skill_Level-Beginner-blue?style=for-the-badge)  
+![Static Badge](https://img.shields.io/badge/Estimated_Time-5_Minutes-blue?style=for-the-badge)
+
 {: .note}
 > This guide assumes you've already installed BepInEx following the instructions from their repository. You specifically want the [latest version 5 LTS](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)
 
 {: .important}
 > The developers of the game have indicated they will stop stripping the game assemblies so this guide will become obsolete after the next release and following it will just add extra space to your game install
+
+<hr/>
+Table of Contents
 
 - [Acquire Unstripped Assemblies](#acquire-unstripped-assemblies)
 - [Extract The Unstripped Assemblies](#extract-the-unstripped-assemblies)

@@ -6,8 +6,18 @@ grand_parent: Home
 
 # Your First Mod
 
-{: .note}
-> This guide assumes you've already installed BepInEx following the instructions from their repository. You specifically want the [latest version 5 LTS](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2) and [setup doorstop](Configuring-Doorstop.md) with unstripped assemblies to allow modding.
+![Static Badge](https://img.shields.io/badge/Skill_Level-Beginner-blue?style=for-the-badge)  
+![Static Badge](https://img.shields.io/badge/Estimated_Time-35_Minutes-blue?style=for-the-badge)
+
+You will learn:
+
+- How to use the Unity Explorer Object Browser
+- How to use the Unity Explorer Inspector Window to inspect an object
+- How to use the Unity Explorer Hooks menu to design a hook
+- How to recreate that hook in a plugin loaded by BepInEx
+
+<hr/>
+Table of Contents
 
 - [Install Prerequisites](#install-prerequisites)
   - [Plugin Template for Obenseuer](#plugin-template-for-obenseuer)
@@ -22,6 +32,9 @@ grand_parent: Home
     - [PlayerLockpicking.cs](#playerlockpickingcs)
 
 ## Install Prerequisites
+
+{: .note}
+> This guide assumes you've already installed BepInEx following the instructions from their repository. You specifically want the [latest version 5 LTS](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2) and [setup doorstop](Configuring-Doorstop.md) with unstripped assemblies to allow modding.
 
 ### Plugin Template for Obenseuer
 
