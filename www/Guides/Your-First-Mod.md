@@ -35,7 +35,7 @@ Table of Contents
 ## Install Prerequisites
 
 {: .note}
-> This guide assumes you've already installed BepInEx following the instructions from their repository. You specifically want the [latest version 5 LTS](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2) and [setup doorstop](Configuring-Doorstop.md) with unstripped assemblies to allow modding.
+> This guide assumes you've already installed BepInEx following the instructions from their repository. You specifically want the [latest version 5 LTS](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2) and [setup doorstop](Configuring-Doorstop.html) with unstripped assemblies to allow modding.
 
 ### Plugin Template for Obenseuer
 
