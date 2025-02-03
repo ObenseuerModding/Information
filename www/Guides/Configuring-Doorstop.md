@@ -10,11 +10,11 @@ grand_parent: Home
 ![Static Badge](https://img.shields.io/badge/Skill_Level-Beginner-blue?style=for-the-badge)  
 ![Static Badge](https://img.shields.io/badge/Estimated_Time-5_Minutes-blue?style=for-the-badge)
 
+{: .warning}
+> The developers of the game have stopped stripping the game assemblies so this guide is obsolete and following it will just add extra space to your game install. It has been left up for historical purposes but will not provide any benefit to follow these instructions
+
 {: .note}
 > This guide assumes you've already installed BepInEx following the instructions from their repository. You specifically want the [latest version 5 LTS](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)
-
-{: .important}
-> The developers of the game have indicated they will stop stripping the game assemblies so this guide will become obsolete after the next release and following it will just add extra space to your game install
 
 <hr/>
 Table of Contents
