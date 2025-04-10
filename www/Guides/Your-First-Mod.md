@@ -35,7 +35,7 @@ Table of Contents
 ## Install Prerequisites
 
 {: .note}
-> This guide assumes you've already installed BepInEx following the instructions from their repository. You specifically want the [latest version 5 LTS](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2) and [setup doorstop](Configuring-Doorstop.html) with unstripped assemblies to allow modding.
+> This guide assumes you've already installed BepInEx following the instructions from their repository. You specifically want the [latest version 5 LTS](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)
 
 ### Plugin Template for Obenseuer
 
@@ -66,7 +66,11 @@ If this is your first time using the template copy the Config.Build.user.props.t
 
 This file is simply an xml document with a goofy name so you can open it with any text editor, but I'd suggest your IDE of choice, for example, visual studio, VSCode or Rider. There will be a line defining the GameDir property with the text `full/path/to/game`, replace this with the actual full path to your game. You can find this by right-clicking your game in steam and selecting manage -> browse local files. This is required for automatically finding the game's DLL files to depend on when modding so you can't skip this step
 
-Now go ahead and do a test build of your project. If you are using VSCode the default action will be a build and deploy action so you will see console output that contains `Deploy ->` somewhere near the bottom. If you are using VS I have included a task that should do the same but if it doesn't you simply use `dotnet build -p:DeployToProd=true` to get the same build and deploy features.
+Now go ahead and do a test build of your project. If you are using VSCode the default action will be a build and deploy action so you will see console output that contains `Deploy ->` somewhere near the bottom.
+If you are using VS I have included a task that should do the same but if it doesn't you simply use `dotnet build -p:DeployToProd=true` to get the same build and deploy features.
+
+{: .note}
+> If you do not see the console output for `Deploy ->` in your build step, check the plugin directory for your game anyway and see if its working silently. Newer versions of MSBuild seem to consume the output of tasks without displaying it to the user so it may be running silently.
 
 The plugin is now set up and your game has Unity Explorer. Let's find something to patch!
 
